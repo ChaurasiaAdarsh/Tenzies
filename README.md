@@ -25,7 +25,7 @@ This project replicates the classic Tenzies game using React state and hooks. It
 
 # 1. **Clone the repository**
 
-git clone https://github.com/your-username/tenzies-game.git
+git clone https://github.com/ChaurasiaAdarsh/Tenzies.git
 cd TENZIES
 
 # 2. **Install dependencies**
