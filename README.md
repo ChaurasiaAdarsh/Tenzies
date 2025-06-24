@@ -4,7 +4,9 @@ Tenzies is a simple dice-based game built with React where the objective is to r
 
 # Output
 
-![OUTPUT](output image/Screenshot 2025-06-24 173622.png)
+![OUTPUT](output/1st.png)
+![OUTPUT](output/2nd.png)
+![OUTPUT](output/3rd.png)
 
 ## About
 
