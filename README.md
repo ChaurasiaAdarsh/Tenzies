@@ -2,6 +2,10 @@
 
 Tenzies is a simple dice-based game built with React where the objective is to roll until all dice show the same number. Players can "hold" dice between rolls to strategically lock values and increase their chances of winning.
 
+# Output
+
+![OUTPUT](output image\Screenshot 2025-06-24 173622.png)
+
 ## About
 
 This project replicates the classic Tenzies game using React state and hooks. It offers a dynamic and interactive experience by allowing users to roll dice, hold their desired dice, and celebrate a win with confetti when all dice match.
